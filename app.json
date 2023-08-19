@@ -10,7 +10,7 @@
     ],
     "repository": "https://github.com/bubukalang/Save-Restricted-Content-Bottt",
     "website": "",
-    "success_url": "https://t.me/aquaa99",
+    "success_url": "https://t.me/SaveRestrictedVideo",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
